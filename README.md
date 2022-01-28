@@ -1,6 +1,6 @@
-# Welcome to my public repo
+# Welcome to My Public Repo
 
-Sakher Alqaaidi / PhD Student / University of Georgia
+### Sakher Alqaaidi / PhD Student / University of Georgia
 
 I'm showing my work of __NLP__ POS task which part of my text2graph project.
 
